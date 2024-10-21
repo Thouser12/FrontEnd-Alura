@@ -140,4 +140,8 @@ footer{
     .presentation_content {
         width: auto;
     }
+
+    .presentation_image{
+        width: auto;
+    }
 }
