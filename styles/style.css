@@ -104,12 +104,8 @@ header{
 
 .presentation_image{
     width: 50%;
-    height: 50%;
     border-radius: 25px;
     border: 4px solid var(--cor-terciaria);
-    object-fit: contain;
-    margin: 0;
-    padding: 0;
 }
 
 .text_highlight {
@@ -146,7 +142,6 @@ footer{
     }
 
     .presentation_image{
-        width: 50%;
-        height: 50%;
+        max-width: 100%;
     }
 }
