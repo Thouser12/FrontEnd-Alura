@@ -108,6 +108,7 @@ header{
     border-radius: 25px;
     border: 4px solid var(--cor-terciaria);
     object-fit: contain;
+    overflow: hidden;
 }
 
 .text_highlight {
